@@ -1,0 +1,194 @@
+=== Redforts Hotel Booking Engine ===
+
+== Change Log ==
+
+= 1.0.0 =
+* Initial release.
+
+= 1.0.1 =
+* Add compatible stylesheet for bridge theme.
+
+= 1.0.2 =
+* Improve layout and stability.
+
+= 1.0.3 =
+* Add basic stylesheet.
+* Improve layout and stability.
+
+= 1.0.4 =
+* Add widget support.
+* Add new options for the shortcode.
+* Add Slovak translation.
+
+= 1.1.0 =
+* Add support for different currencies.
+* Add support for translations with qTranslatex.
+* Improve layout and stability.
+
+= 1.1.1 =
+* Improve layout and stability.
+
+= 1.1.2 =
+* Add translations.
+* Add test mode.
+
+= 1.1.3 =
+* Improve layout and stability.
+
+= 1.1.4 =
+* Add support for PHP 5.3.
+
+= 1.1.5 =
+* Improve layout and stability.
+
+= 1.1.6 =
+* Add Catalan translations.
+* Add Portuguese translations.
+* Add alert when in test mode.
+* Improve layout and stability.
+
+= 1.1.7 =
+* Add privacy statement.
+
+= 1.1.8 =
+* Improve layout and stability.
+
+= 1.1.9 =
+* Permit reservations of more than 30 days.
+
+= 1.2.0 =
+* Redesign user interface.
+* Improve layout and stability.
+
+= 1.2.1 =
+* Improve modals.
+* Show more detailed information about booked accommodations.
+* Improve support for several themes.
+* Improve layout and stability.
+
+= 1.2.2 =
+* Improve layout and stability.
+
+= 1.2.3 =
+* Support booking multiple rooms of the same type.
+
+= 1.3.0 =
+* Add consent and privacy conditions.
+* Add availability calendar data and disabled dates.
+* Add page to review the reservation.
+* Add page to book extras.
+* Enable custom templates for reservation pages.
+
+= 1.3.1 =
+* Improve layout and stability.
+
+= 2.0.0 =
+* Add page to review the reservation.
+* Remove test mode.
+
+= 2.0.1 =
+* Improve layout and stability.
+
+= 2.0.2 =
+* Improve layout and stability.
+
+= 2.0.3 =
+* Improve layout and stability.
+
+= 2.0.4 =
+* Improve layout and stability.
+
+= 2.0.5 =
+* Add check-in and check-out times.
+* Improve layout and stability.
+
+= 2.0.6 =
+* Improve layout and stability.
+
+= 2.0.7 =
+* Improve layout and stability.
+
+= 2.0.8 =
+* Improve layout and stability.
+
+= 2.0.9 =
+* Improve layout and stability.
+
+= 2.0.10 =
+* Update logos.
+
+= 2.0.11 =
+* Support Google Analytics.
+* Improve layout and stability.
+
+= 2.0.12 =
+* Improve layout and stability.
+
+= 2.0.13 =
+* Improve layout and stability.
+
+= 2.0.14 =
+* Improve layout and stability.
+
+= 3.0 =
+* Support for multiple images per accommodation.
+* Improve layout and stability.
+
+= 3.1 =
+* Improve layout and stability.
+
+= 3.2 =
+* Improve layout and stability.
+
+= 3.3 =
+* Integrate with guest's online reservation page.
+* Support Wordpress WPML plugin.
+* Improve layout and stability.
+
+= 3.4 =
+* Improve layout and stability.
+
+= 3.5 =
+* Improve layout and stability.
+
+= 3.6 =
+* Improve layout and stability.
+
+= 3.7 =
+* Improve stability.
+
+= 3.8 =
+* Update required Wordpress version.
+
+= 3.9 =
+* Show text "price excl. x% taxes".
+* Validate email address.
+
+= 4.0 =
+* iFrame with Redforts booking engine
+
+= 4.1 =
+* Improve stability.
+
+= 4.2 =
+* Improve stability.
+
+= 4.3 =
+* Support for multiple search forms per page.
+* Support for multiple Redforts Hotel Software accounts.
+* Improve stability.
+
+= 4.4 =
+* Adaptive iframe size.
+* Accounts selector on administration page.
+* Rename to Redforts Hotel Booking Engine.
+
+= 4.5 ==
+* Tested up to Wordpress 6.4.3.
+
+= 4.6 ==
+* Tested up to Wordpress 6.5.
+
+= 4.7 ==
+* Updated meta data.
+* Tested up to Wordpress 6.6.

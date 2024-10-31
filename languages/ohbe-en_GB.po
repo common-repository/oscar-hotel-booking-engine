@@ -1,0 +1,148 @@
+# English translations for Redforts Hotel Booking Engine package.
+# Copyright © 2017 - 2024 Redforts Software SL
+# This file is distributed under the same license as the Redforts Hotel Booking Engine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translations@redforts.com\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jan Korstanje <jan.korstanje@redforts.com>\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Account connection"
+msgstr "Account connection"
+
+msgid "Account label"
+msgstr "Account label"
+
+msgid "Account selector"
+msgstr "Account selector"
+
+msgid "Adapt size automatically (recommended)"
+msgstr "Adapt size automatically (recommended)"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Arrival"
+msgstr "Arrival"
+
+msgid "Booking engine"
+msgstr "Booking engine"
+
+msgid "Booking engine widget"
+msgstr "Booking engine widget"
+
+msgid "Buttons background"
+msgstr "Buttons background"
+
+msgid "Buttons font"
+msgstr "Buttons font"
+
+msgid "Check out the Help section for more information about the plugin."
+msgstr "Check out the Help section for more information about the plugin."
+
+msgid "Colors"
+msgstr "Colours"
+
+msgid "Connect multiple accounts"
+msgstr "Connect multiple accounts"
+
+msgid "Connection code"
+msgstr "Connection code"
+
+msgid "Departure"
+msgstr "Departure"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Insert viewport's percentage"
+msgstr "Insert viewport's percentage"
+
+msgid "Not a correct connection code"
+msgstr "Not a correct connection code"
+
+msgid "Only letters, digits and underscores."
+msgstr "Only letters, digits and underscores."
+
+msgid "Other settings"
+msgstr "Other settings"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Plugin logs"
+msgstr "Plugin logs"
+
+msgid "Promo code"
+msgstr "Promo code"
+
+msgid "Redforts Hotel Settings"
+msgstr "Redforts Hotel Settings"
+
+msgid "Redforts Hotel: Create booking"
+msgstr "Redforts Hotel: Create booking"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Selector title"
+msgstr "Selector title"
+
+msgid "Settings saved."
+msgstr "Settings saved."
+
+msgid "Show promo code"
+msgstr "Show promo code"
+
+msgid "The account selector can be enabled by adding «accounts_selector=\"true\"» to the shortcode, for example: [ohbe_search accounts_selector=\"true\"]"
+msgstr "The account selector can be enabled by adding «accounts_selector=\"true\"» to the shortcode, for example: [ohbe_search accounts_selector=\"true\"]"
+
+msgid "The connection code doesn't exists. Please, go to the plugin configuration page enter a new one"
+msgstr "The connection code doesn't exists. Please, go to the plugin configuration page enter a new one"
+
+msgid "The label can be used in the shortcode to select the account, for example: [ohbe_search account=\"default\"]"
+msgstr "The label can be used in the shortcode to select the account, for example: [ohbe_search account=\"default\"]"
+
+msgid "There are no multiple accounts."
+msgstr "There are no multiple accounts."
+
+msgid "This connection code doesn't exist."
+msgstr "This connection code doesn't exist."
+
+msgid "This connection code is not active."
+msgstr "This connection code is not active."
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Wrong shortcode parameter."
+msgstr "Wrong shortcode parameter."
+
+#, php-format
+msgid "You can find your connection code on the <a %s>booking engine integration page</a> in Redforts."
+msgstr "You can find your connection code on the <a %s>booking engine integration page</a> in Redforts."
+
+#~ msgid "Google Analytics"
+#~ msgstr "Google Analytics"
+
+#~ msgid "Google Analytics code"
+#~ msgstr "Google Analytics code"
+
+#~ msgid "Insert your Google Analytics code to integrate the booking pages with Google Analytics"
+#~ msgstr "Insert your Google Analytics code to integrate the booking pages with Google Analytics"
+
+#~ msgid "The label can be used in the shortcode to select the account with «account=\"default\"»."
+#~ msgstr "The label can be used in the shortcode to select the account with «account=\"default\"»."

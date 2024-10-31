@@ -1,0 +1,108 @@
+// SEARCH FORM
+
+.ohbe-search-form {
+    display: block;
+
+    .input-group {
+        margin-bottom: 8px;
+        text-align: center;
+
+        .ohbe-accounts-selector,
+        .ohbe-datepicker-arrival,
+        .ohbe-datepicker-departure,
+        .ohbe-promo {
+            background: #fff;
+            border: 1px solid $gray;
+            border-radius: 3px;
+            color: $gray-dark;
+            font-size: $font-size-base;
+            height: 40px;
+            line-height: 1.5;
+            margin-right: 3px;
+            padding: .5em;
+        }
+
+        .ohbe-accounts-selector,
+        .ohbe-datepicker-arrival,
+        .ohbe-datepicker-departure,
+        .ohbe-promo,
+        .ohbe-search-submit {
+            box-sizing: border-box;
+            margin-bottom: 5px;
+            max-width: 144px;
+        }
+
+        .ohbe-search-submit {
+            font-size: $font-size-base;
+            line-height: 1.5;
+            padding: .5em 1em;
+        }
+
+
+        .ohbe-accounts-selector:hover,
+        .ohbe-datepicker-arrival:hover,
+        .ohbe-datepicker-departure:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+.widget .ohbe-search-form {
+    .ohbe-accounts-selector,
+    .ohbe-datepicker-arrival,
+    .ohbe-datepicker-departure,
+    .ohbe-promo,
+    .ohbe-search-submit {
+        margin-bottom: 2px;
+        max-width: initial;
+        width: 100%;
+    }
+}
+
+.ohbe-datepicker {
+    border-width: 0;
+    z-index: 10000 !important;
+
+    td {
+        border-radius: 40px;
+        height: 40px;
+        width: 40px;
+
+        &.disabled {
+            text-decoration: line-through;
+            text-decoration-color: red;
+        }
+    }
+
+    th {
+        font-weight: 600;
+    }
+
+    table tr td span {
+        align-items: center;
+        border-radius: 40px;
+        display: flex;
+        height: 40px;
+        justify-content: center;
+    }
+
+    .datepicker-days table tr td.active,
+    table.table-condensed tr td span.active {
+        background-image: none;
+        text-decoration-line: underline;
+    }
+
+    .datepicker-title {
+        border-bottom-style: solid;
+        border-bottom-width: 2px;
+    }
+
+    .range-selected {
+        font-weight: 600;
+    }
+
+    @media screen and (max-width: 650px) {
+        left: 0 !important;
+        width: 100%;
+    }
+}

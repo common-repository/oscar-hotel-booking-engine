@@ -1,0 +1,136 @@
+# French translations for Redforts Hotel Booking Engine package.
+# Copyright © 2017 - 2024 Redforts Software SL
+# This file is distributed under the same license as the Redforts Hotel Booking Engine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translations@redforts.com\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jan Korstanje <jan.korstanje@redforts.com>\n"
+"Language-Team: none\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Account connection"
+msgstr "Connexion de compte"
+
+msgid "Account label"
+msgstr "Étiquette de compte"
+
+msgid "Account selector"
+msgstr "Sélecteur de compte"
+
+msgid "Adapt size automatically (recommended)"
+msgstr "Adapter automatiquement la taille (recommandé)"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Arrival"
+msgstr "Arrivée"
+
+msgid "Booking engine"
+msgstr "Moteur de réservation"
+
+msgid "Booking engine widget"
+msgstr "Widget du moteur de réservation"
+
+msgid "Buttons background"
+msgstr "Buttons: couleur de fond"
+
+msgid "Buttons font"
+msgstr "Buttons: couleur de la lettre"
+
+msgid "Check out the Help section for more information about the plugin."
+msgstr "Consultez la section Aide pour plus d'informations sur le plugin."
+
+msgid "Colors"
+msgstr "Couleurs"
+
+msgid "Connect multiple accounts"
+msgstr "Connecter plusieurs comptes"
+
+msgid "Connection code"
+msgstr "Code de connexion"
+
+msgid "Departure"
+msgstr "Départ"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Insert viewport's percentage"
+msgstr "Insérer le pourcentage de la fenêtre"
+
+msgid "Not a correct connection code"
+msgstr "Code de connexion pas valide"
+
+msgid "Only letters, digits and underscores."
+msgstr "Seuls les lettres, les chiffres et les traits de soulignement."
+
+msgid "Other settings"
+msgstr "Autres réglages"
+
+msgid "Overview"
+msgstr "Récapitulatif"
+
+msgid "Plugin logs"
+msgstr "Plugin logs"
+
+msgid "Promo code"
+msgstr "Code promo"
+
+msgid "Redforts Hotel Settings"
+msgstr "Configuration d'Redforts Hotel"
+
+msgid "Redforts Hotel: Create booking"
+msgstr "Redforts Hotel: Créer réservation"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Selector title"
+msgstr "Titre du sélecteur"
+
+msgid "Settings saved."
+msgstr "Configuration sauvegardée."
+
+msgid "Show promo code"
+msgstr "Afficeher le code promo"
+
+msgid "The account selector can be enabled by adding «accounts_selector=\"true\"» to the shortcode, for example: [ohbe_search accounts_selector=\"true\"]"
+msgstr "Le sélecteur de compte peut être activé en ajoutant «accounts_selector=\"true\"» au shortcode, par exemple : [ohbe_search account_selector=\"true\"]"
+
+msgid "The connection code doesn't exists. Please, go to the plugin configuration page enter a new one"
+msgstr "Le code de connexion n'existe pas. Accédez à la page de configuration du plugin, et entrez-en un nouveau"
+
+msgid "The label can be used in the shortcode to select the account, for example: [ohbe_search account=\"default\"]"
+msgstr "Le libellé peut être utilisé dans le shortcode pour sélectionner le compte, par exemple : [ohbe_search account=\"default\"]"
+
+msgid "There are no multiple accounts."
+msgstr "Il n'y a qu'un seul compte."
+
+msgid "This connection code doesn't exist."
+msgstr "Ce code de connexion n'existe pas."
+
+msgid "This connection code is not active."
+msgstr "Ce code de connexion n'est pas actif."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Wrong shortcode parameter."
+msgstr "Mauvais paramètre de shortcode."
+
+#, php-format
+msgid "You can find your connection code on the <a %s>booking engine integration page</a> in Redforts."
+msgstr "Vous pouvez trouver le code de connexion sur la <a %s>page d'intégration du moteur de réservation</a> dans Redforts."

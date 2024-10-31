@@ -1,0 +1,15 @@
+// .............................
+//    HELPERS
+// .............................
+
+.clear {
+    clear: both;
+}
+
+.error-border {
+    border-color: $red-dark !important;
+}
+
+.with-overlay {
+    overflow-y: hidden !important;
+}
